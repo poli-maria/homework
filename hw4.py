@@ -1,0 +1,8 @@
+my_string = input('Напишите любой цвет: ')
+print('Вы теперь', my_string, 'гномик.')
+print(len(my_string))
+print('Вы теперь', my_string.upper(), 'гномик.')
+print('Вы теперь', my_string.lower(), 'гномик.')
+print('Вы теперь', my_string.replace(' ', ''), 'гномик.')
+print(my_string[0])
+print(my_string[-1])
